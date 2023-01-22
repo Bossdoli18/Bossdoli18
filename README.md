@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bossdoli18
 - 👀 I’m interested in python 
-- 🌱 I’m currently learning Django 
+- 🌱 I’m currently learning c 
 - 💞️ I’m looking to collaborate on a project 
 - 📫 How to reach me jenwil099@gmail.com
 
