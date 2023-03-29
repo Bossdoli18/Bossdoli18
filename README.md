@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bossdoli18
 - 👀 I’m interested in python 
-- 🌱 I’m currently learning c 
+- 🌱 I’m currently a student @alx learning c 
 - 💞️ I’m looking to collaborate on a project 
 - 📫 How to reach me oladeleife18@gmail.com
 
